@@ -1,0 +1,16 @@
+-this-package-name
+plugin
+-working-dir
+./plugin
+-i
+-isrc
+-this-unit-id
+plugin-0.1.0.0-inplace
+-package
+base
+-package
+ghc
+-XHaskell2010
+Plugin
+-Wall
+-hide-all-packages

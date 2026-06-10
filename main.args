@@ -1,0 +1,14 @@
+-this-package-name
+reexported-plugin-test
+-i
+-isrc
+-this-unit-id
+reexported-plugin-test-0.1.0.0-inplace
+-package
+base
+-package-id
+plugin-reexported-0.1.0.0-inplace
+-XHaskell2010
+MyLib
+-Wall
+-hide-all-packages
